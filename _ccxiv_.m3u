@@ -1,0 +1,320 @@
+﻿#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz"
+
+#EXTINF:-1 tvg-id="izvestia" group-title="~",Известия [sq]
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 tvg-id="izvestia" group-title="~",Известия [tcode]
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="~",WORLD HD
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="kvn-tv" group-title="~",КВН ТВ [woobl]
+https://woobl.ru/hls987/KVN.m3u8
+#EXTINF:-1 tvg-id="kvn-tv" group-title="~",КВН ТВ [ip83]
+http://83.234.207.29:8009/play/a01u/index.m3u8
+#EXTINF:-1 tvg-id="kvn-tv" group-title="~",КВН ТВ [ip93]
+http://93.125.121.61:8383/play/a030
+#EXTINF:-1 tvg-id="kvn-tv" group-title="~",КВН ТВ [ip91]
+http://91.194.191.241:8081/chid472/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="pervy-pl4" group-title="~",Первый канал (+4) [d3 zabava krai]
+http://dmi3y-tv.online/hls/zabava/region/KRSK_KRAI/CH_1TV.m3u8
+#EXTINF:-1 tvg-id="pervy-pl4" group-title="~",Первый канал (+4) [d3 zabava krsk]
+http://dmi3y-tv.online/hls/zabava/region/KRSK/CH_1TV.m3u8
+#EXTINF:-1 tvg-id="pervy-pl4" group-title="~",Первый канал (+4) [d3 dvb]
+http://dmi3y-tv.online/hls/DVB-T2/CH_1TV_4.m3u8
+#EXTINF:-1 tvg-id="pervy-pl4" group-title="~",Первый канал (+4) [dd zbava]
+http://dmitry-tv.ddns.net/hls/zabava/region/KRSK/CH_1TV.m3u8
+
+#EXTINF:-1 tvg-id="rossia1-pl4" group-title="~",Россия 1 (+4) [d3 zabava krai]
+http://dmi3y-tv.online/hls/zabava/region/KRSK_KRAI/CH_ROSSIA1.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl4" group-title="~",Россия 1 (+4) [d3 zabava krsk]
+http://dmi3y-tv.online/hls/zabava/region/KRSK/CH_ROSSIA1.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl4" group-title="~",Россия 1 (+4) [d3 dvb]
+http://dmi3y-tv.online/hls/DVB-T2/CH_RUSSIA1_4.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl4" group-title="~",Россия 1 (+4) [dd zabava]
+http://dmitry-tv.ddns.net/hls/zabava/region/KRSK/CH_ROSSIA1.m3u8
+
+#EXTINF:-1 tvg-id="ntv-pl4" group-title="~",НТВ (+4) [d3 zabava krai]
+http://dmi3y-tv.online/hls/zabava/region/KRSK_KRAI/CH_NTV.m3u8
+#EXTINF:-1 tvg-id="ntv-pl4" group-title="~",НТВ (+4) [d3 zabava krsk]
+http://dmi3y-tv.online/hls/zabava/region/KRSK/CH_NTV.m3u8
+#EXTINF:-1 tvg-id="ntv-pl4" group-title="~",НТВ (+4) [d3 dvb]
+http://dmi3y-tv.online/hls/DVB-T2/CH_NTV_4.m3u8
+#EXTINF:-1 tvg-id="ntv-pl4" group-title="~",НТВ (+4) [dd zabava]
+http://dmitry-tv.ddns.net/hls/zabava/region/KRSK/CH_NTV.m3u8
+#EXTINF:-1 tvg-id="ntv-pl4" group-title="~",НТВ (+4) [orig]
+https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5kanal-ru-pl4" group-title="~",Пятый канал (+4) [d3 zabava krai]
+http://dmi3y-tv.online/hls/zabava/region/KRSK_KRAI/CH_5TV.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru-pl4" group-title="~",Пятый канал (+4) [d3 dvb]
+http://dmi3y-tv.online/hls/DVB-T2/CH_5TV_4.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru-pl4" group-title="~",Пятый канал (+4) [zabava]
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
+
+#EXTINF:-1 tvg-id="kultura-pl4" group-title="~",Россия K (+4) [d3 zabava krai]
+http://dmi3y-tv.online/hls/zabava/region/KRSK_KRAI/CH_ROSSIAK.m3u8
+#EXTINF:-1 tvg-id="kultura-pl4" group-title="~",Россия К (+4) [d3 dvb]
+http://dmi3y-tv.online/hls/DVB-T2/CH_RUSSIAK_4.m3u8
+
+#EXTINF:-1 tvg-id="rossia-24" group-title="~",Россия 24 (+4) [d3 zabava krai]
+http://dmi3y-tv.online/hls/zabava/region/KRSK_KRAI/CH_ROSSIA24.m3u8
+#EXTINF:-1 tvg-id="rossia-24" group-title="~",Россия 24 (+4) [d3 dvb]
+http://dmi3y-tv.online/hls/DVB-T2/CH_RUSSIA24.m3u8
+#EXTINF:-1 tvg-id="rossia-24" group-title="~",Россия 24 (Красноярск)
+https://vgtrkregion.cdnvideo.ru/vgtrk/krasnoyarsk/russia24sd/playlist.m3u8
+
+#EXTINF:-1 group-title="~",ОТР (+4) [d3 zabava krai]
+http://dmi3y-tv.online/hls/zabava/region/KRSK_KRAI/CH_OTR.m3u8
+#EXTINF:-1 group-title="~",ОТР (+4) [d3 dvb]
+http://dmi3y-tv.online/hls/DVB-T2/CH_OTR.m3u8
+
+#EXTINF:-1 group-title="~",ТВЦ (+4) [d3 zabava krai]
+http://dmi3y-tv.online/hls/zabava/region/KRSK_KRAI/CH_TVC.m3u8
+#EXTINF:-1 group-title="~",ТВЦ (+4) [d3 dvb]
+http://dmi3y-tv.online/hls/DVB-T2/CH_TVC_4.m3u8
+
+#EXTINF:-1 tvg-id="rentv-pl4" group-title="~",РЕН ТВ (+4) [d3 zabava krai]
+http://dmi3y-tv.online/hls/zabava/region/KRSK_KRAI/CH_RENTV.m3u8
+#EXTINF:-1 tvg-id="rentv-pl4" group-title="~",РЕН ТВ (+4) [d3 dvb]
+http://dmi3y-tv.online/hls/DVB-T2/CH_RENTV_4.m3u8
+
+#EXTINF:-1 tvg-id="sts-pl4" group-title="~",СТС (+4) [d3 zabava krai]
+http://dmi3y-tv.online/hls/zabava/region/KRSK_KRAI/CH_STS.m3u8
+#EXTINF:-1 tvg-id="sts-pl4" group-title="~",СТС (+4) [d3 dvb]
+http://dmi3y-tv.online/hls/DVB-T2/CH_STS_4.m3u8
+#EXTINF:-1 tvg-id="sts-pl4" group-title="~",СТС (+4) [d3 zabava krsk]
+http://dmitry-tv.ddns.net/hls/zabava/region/KRSK/CH_STS.m3u8
+
+#EXTINF:-1 tvg-id="domashny-pl4" group-title="~",Домашний (+4) [d3 zabava krai]
+http://dmi3y-tv.online/hls/zabava/region/KRSK_KRAI/CH_DOMASHNIY.m3u8
+#EXTINF:-1 tvg-id="domashny-pl4" group-title="~",Домашний (+4) [d3 dvb]
+http://dmi3y-tv.online/hls/DVB-T2/CH_DOMASHNIY_4.m3u8
+
+#EXTINF:-1 group-title="~",ТВ3 (+4) [d3 zabava krai]
+http://dmi3y-tv.online/hls/zabava/region/KRSK_KRAI/CH_TV3.m3u8
+#EXTINF:-1 group-title="~",ТВ3 (+4) [d3 dvb]
+http://dmi3y-tv.online/hls/DVB-T2/CH_TV3_4.m3u8
+
+#EXTINF:-1 tvg-id="zvezda-pl4" group-title="~",Звезда (+4) [d3 zabava krai]
+http://dmi3y-tv.online/hls/zabava/region/KRSK_KRAI/CH_ZVEZDA.m3u8
+#EXTINF:-1 tvg-id="zvezda-pl4" group-title="~",Звезда (+4) [d3 dvb]
+http://dmi3y-tv.online/hls/DVB-T2/CH_ZVEZDA_4.m3u8
+#EXTINF:-1 tvg-id="zvezda-pl4" group-title="~",Звезда (+4) [tuva]
+http://vod.tuva.ru:8080/zvezda/index.m3u8
+
+#EXTINF:-1 tvg-id="mir-pl4" group-title="~",МИР (+4) [d3 zabava krai]
+http://dmi3y-tv.online/hls/zabava/region/KRSK_KRAI/CH_MIR.m3u8
+#EXTINF:-1 tvg-id="mir-pl4" group-title="~",МИР (+4) [d3 dvb]
+http://dmi3y-tv.online/hls/DVB-T2/CH_MIR_4.m3u8
+#EXTINF:-1 tvg-id="mir-pl4" group-title="~",МИР +4
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tnt-pl4" group-title="~",ТНТ (+4) [d3 zabava krai]
+http://dmi3y-tv.online/hls/zabava/region/KRSK_KRAI/CH_TNT.m3u8
+#EXTINF:-1 tvg-id="tnt-pl4" group-title="~",ТНТ (+4) [d3 zabava krsk]
+http://dmi3y-tv.online/hls/zabava/region/KRSK/CH_TNT.m3u8
+#EXTINF:-1 tvg-id="tnt-pl4" group-title="~",ТНТ (+4) [d3 dvb]
+http://dmi3y-tv.online/hls/DVB-T2/CH_TNT_4.m3u8
+
+#EXTINF:-1 group-title="~",ТВК 24 (+4) [d3 zabava krai]
+http://dmi3y-tv.online/hls/zabava/region/KRSK/CH_TVK24HD.m3u8
+#EXTINF:-1 group-title="~",ТВК 24 (+4) [orig]
+https://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="7kanal-krasnoyarsk" group-title="~",7 канал
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
+
+#EXTINF:-1 tvg-id="8kanal-krasnoyarsk" group-title="~",8 канал
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/variant.m3u8
+
+#EXTINF:-1 tvg-id="enisey-region" group-title="~",Енисей
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
+
+#EXTINF:-1 tvg-id="prima" group-title="~",Прима-ТВ
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
+
+
+#EXTINF:-1  group-title="18+",mycamtv Lesbian
+http://live.mycamtv.com/lesbian.m3u8
+#EXTINF:-1  group-title="18+",mycamtv bdsm
+http://live.mycamtv.com/bdsm.m3u8
+#EXTINF:-1  group-title="18+",mycamtv kink
+http://live.mycamtv.com/kink.m3u8
+#EXTINF:-1  group-title="18+",mycamtv anal
+http://live.mycamtv.com/anal.m3u8
+#EXTINF:-1  group-title="18+",mycamtv asian
+http://live.mycamtv.com/asian.m3u8
+#EXTINF:-1  group-title="18+",mycamtv bigass
+http://live.mycamtv.com/bigass.m3u8
+#EXTINF:-1  group-title="18+",mycamtv bigdick
+http://live.mycamtv.com/bigdick.m3u8
+#EXTINF:-1  group-title="18+",mycamtv bigtits
+http://live.mycamtv.com/bigtits.m3u8
+#EXTINF:-1  group-title="18+",mycamtv blonde
+http://live.mycamtv.com/blonde.m3u8
+#EXTINF:-1  group-title="18+",mycamtv blowjob
+http://live.mycamtv.com/blowjob.m3u8
+#EXTINF:-1  group-title="18+",mycamtv brunette
+http://live.mycamtv.com/brunette.m3u8
+#EXTINF:-1  group-title="18+",mycamtv cuckold
+http://live.mycamtv.com/cuckold.m3u8
+#EXTINF:-1  group-title="18+",mycamtv compilation
+http://live.mycamtv.com/compilation.m3u8
+#EXTINF:-1  group-title="18+",mycamtv fetish
+http://live.mycamtv.com/fetish.m3u8
+#EXTINF:-1  group-title="18+",mycamtv hardcore
+http://live.mycamtv.com/hardcore.m3u8
+#EXTINF:-1  group-title="18+",mycamtv interracial
+http://live.mycamtv.com/interracial.m3u8
+#EXTINF:-1  group-title="18+",mycamtv latina
+http://live.mycamtv.com/latina.m3u8
+#EXTINF:-1  group-title="18+",mycamtv milf
+http://live.mycamtv.com/milf.m3u8
+#EXTINF:-1  group-title="18+",mycamtv pornstar
+http://live.mycamtv.com/pornstar.m3u8
+#EXTINF:-1  group-title="18+",mycamtv pov
+http://live.mycamtv.com/pov.m3u8
+#EXTINF:-1  group-title="18+",mycamtv russian
+http://live.mycamtv.com/russian.m3u8
+#EXTINF:-1  group-title="18+",mycamtv threesome
+http://live.mycamtv.com/threesome.m3u8
+
+#EXTINF:-1 group-title="18+",Adult teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1  group-title="18+",mycamtv livecams
+http://live.mycamtv.com/livecams.m3u8
+
+#EXTINF:-1  group-title="18+",mycamtv 02
+http://live.mycamtv.com/arab.m3u8
+#EXTINF:-1  group-title="18+",mycamtv 09
+http://live.mycamtv.com/ebony.m3u8
+#EXTINF:-1  group-title="18+",mycamtv 10
+http://live.mycamtv.com/squirt.m3u8
+#EXTINF:-1  group-title="18+",mycamtv 13
+http://live.mycamtv.com/medium.m3u8
+#EXTINF:-1  group-title="18+",mycamtv 14
+http://live.mycamtv.com/skinny.m3u8
+#EXTINF:-1  group-title="18+",mycamtv 15
+http://live.mycamtv.com/teen.m3u8
+#EXTINF:-1  group-title="18+",mycamtv 16
+http://live.mycamtv.com/white.m3u8
+#EXTINF:-1  group-title="18+",mycamtv 17
+http://live.mycamtv.com/young.m3u8
+
+
+#EXTINF:-1 group-title="18+" audio-track="rus", Babes TV HD
+http://stream.mcquack.net/55/index.m3u8
+#EXTINF:-1 group-title="18+", Babes TV HD hevc
+http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="18+" audio-track="rus", Exxxotica HD
+http://stream.mcquack.net/57/index.m3u8
+#EXTINF:-1 group-title="18+" audio-track="rus", XY Max
+http://79.124.21.250:8199/play/DiemaSport/index.m3u8
+#EXTINF:-1 group-title="18+", Brazzers TV Europe HD
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="18+", Desire HD
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="18+", Dorcel TV HD 
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="18+", Erox HD
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="18+", Eroxxx HD
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="18+", Extasy HD
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="18+", Hustler TV
+http://213.169.39.30:5115
+#EXTINF:-1 group-title="18+", Leo HD
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="18+", Private SD
+http://213.169.39.30:5036
+#EXTINF:-1 group-title="18+", Porn Classic
+http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
+#EXTINF:-1 group-title="18+", Reality Kings TV HD
+http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="18+",Fashion TV Midnite Secrets
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/mXsbRw6/redtraffic-1.png" group-title="18++",RedTraffic 01
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4MZvV06/redtraffic-2.png" group-title="18++",RedTraffic 02
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/mFHLXr0/redtraffic-3.png" group-title="18++",RedTraffic 03
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/SJW3q6b/redtraffic-4.png" group-title="18++",RedTraffic 04
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/tM30GgZ/redtraffic-5.png" group-title="18++",RedTraffic 05
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/fMBHkf3/redtraffic-6.png" group-title="18++",RedTraffic 06
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/YBhBdmZ/redtraffic-7.png" group-title="18++",RedTraffic 07
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/cr6JT3y/redtraffic-8.png" group-title="18++",RedTraffic 08
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/tqvMpfk/redtraffic-9.png" group-title="18++",RedTraffic 09
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/7NHc8rZ/redtraffic-10.png" group-title="18++",RedTraffic 10
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/g6NV6yP/redtraffic-11.png" group-title="18++",RedTraffic 11
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/d2YtbXz/redtraffic-12.png" group-title="18++",RedTraffic 12
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/S6HQpRk/redtraffic-13.png" group-title="18++",RedTraffic 13
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/42pqrPd/redtraffic-14.png" group-title="18++",RedTraffic 14
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/6FYJ7Sw/redtraffic-15.png" group-title="18++",RedTraffic 15
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/R4LT8Yf/redtraffic-16.png" group-title="18++",RedTraffic 16
+http://live.redtraffic.xyz/threesome.m3u8
+
+#EXTINF:-1 group-title="18++",Adult bigass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="18++",Adult bigdick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="18++",Adult blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="18++",Adult blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="18++",Adult compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="18++",Adult fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="18++",Adult interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="18++",Adult latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="18++",Adult lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="18++",Adult milf
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="18++",Adult livecams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="18++",Adult pov
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="18++",Adult teen
+http://cdn.adultiptv.net/teen.m3u8
+
+#EXTINF:-1 group-title="РАДИО",Вести ФМ
+#EXTVLCOPT:http-user-agent=IPTV
+http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
+#EXTINF:-1 group-title="РАДИО",Маяк
+#EXTVLCOPT:http-user-agent=IPTV
+http://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
+#EXTINF:-1 group-title="РАДИО",Радио России
+#EXTVLCOPT:http-user-agent=IPTV
+http://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
+#EXTINF:-1 group-title="~" tvg-logo="https://i.imgur.com/qiCCX5X.png",Now 70`s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="~" tvg-logo="https://i.imgur.com/YyPnMeB.png",Now 80`s
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="~" tvg-logo="https://i.imgur.com/yo8lEu1.png",Now 90`s
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="~",Stingray Remember the 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
